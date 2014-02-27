@@ -2,16 +2,13 @@
   "meteor": {},
   "dependencies": {
     "basePackages": {
-      "reactive-ace": {
-        "git": "git@github.com:mad-eye/meteor-reactive-ace.git",
-        "branch": "master"
-      }
+      "reactive-ace": {}
     },
     "packages": {
       "reactive-ace": {
-        "git": "git@github.com:mad-eye/meteor-reactive-ace.git",
-        "branch": "master",
-        "commit": "bbe39b8f47885d6b60ab11fd44af769d273e9975"
+        "git": "https://github.com/mad-eye/meteor-reactive-ace.git",
+        "tag": "v0.0.4",
+        "commit": "9db4f200d7c27c61b242b7cc6a64bad7d2b3794c"
       }
     }
   }
