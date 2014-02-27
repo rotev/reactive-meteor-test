@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "reactive-ace": {
+    	"git": "git@github.com:mad-eye/meteor-reactive-ace.git"
+    }
+  }
+}
